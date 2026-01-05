@@ -3,7 +3,7 @@ This device allows users to plug it into any target pc and remotely control it w
 
 Wiring:
 
-PC - Leo - ESP rx - 1k - Leo rx + 2k - ESP GND
+PC - Leo - Leo tx - 1k - ESP rx + 2k - ESP GND
 Leo rx - ESP tx
 Leo 5V - ESP vin
 Common gnd controllers
